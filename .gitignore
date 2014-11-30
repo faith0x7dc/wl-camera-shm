@@ -1,0 +1,6 @@
+*.o
+wl-camera-shm
+
+GPATH
+GRTAGS
+GTAGS
